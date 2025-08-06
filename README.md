@@ -7,3 +7,4 @@
 *MENTOR*: NEELA SANTOSH
 _
 I performed File Handling program through c language . when i do it i used vscode for coding, youtube for my doubt clear and some notes of my college.File handling in C is used wherever we need to store, retrieve, or process data permanently. Unlike variables (which store data temporarily in RAM), files allow data to persist on disk.
+<img width="1900" height="1010" alt="Image" src="https://github.com/user-attachments/assets/02cb130c-5ed1-4bce-b416-90bbc4d6bf12" />
